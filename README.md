@@ -12,7 +12,7 @@ Add your own styles to the app.scss file in the scss folder.
 
 After installing with npm locally in the folder of the project grunt-contrib-sass and grunt-contrib-watch, use the next Gruntfile:
 
-'''javascript
+```javascript
 module.exports = function(grunt) {
 
     grunt.initConfig({
@@ -55,4 +55,4 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-contrib-watch');
     grunt.registerTask('default', ['watch']);
 }
-''' 
+```
