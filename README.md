@@ -1,7 +1,7 @@
 # Foundation-sass
 
-## Foundation version 6.3.1
+## Light version of the Zurb Foundation framework
 
-### Light version of the Zurb Foundation framework
+### Foundation version 6.3.1
 
 You can use the compiler you want, Koala, Scout, Grunt, whatever...
