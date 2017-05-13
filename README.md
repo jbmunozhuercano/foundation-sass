@@ -10,7 +10,7 @@ Add your own styles to the app.scss file in the scss folder.
 
 ### Example of Gruntfile:
 
-After installing with npm locally in the folder of the project grunt-contrib-sass and grunt-contrib-watch, use the next Gruntfile:
+After installing with npm locally in the project folder grunt-contrib-sass and grunt-contrib-watch, you can use the next Gruntfile:
 
 ```javascript
 module.exports = function(grunt) {
@@ -36,7 +36,7 @@ module.exports = function(grunt) {
                     sourcemap: 'none'
                 },
                 files: {
-                    'css/app.css': 'sass/app.scss'
+                    'css/app.css': 'scss/app.scss'
                 }
             }
         },
