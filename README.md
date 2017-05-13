@@ -6,4 +6,4 @@
 
 You can use the compiler you want, Koala, Scout, Grunt, whatever...
 
-Add your own styles to the app.scss file.
+Add your own styles to the app.scss file in the scss folder.
